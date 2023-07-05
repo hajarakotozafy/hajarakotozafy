@@ -5,6 +5,9 @@
 🎮 Let's create something amazing together!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hajarakotozafy&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## My Skills
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,nextjs,nodejs,redis,unity,figma&theme=light)](https://skills.thijs.gg)
 <!--
 **hajarakotozafy/hajarakotozafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
