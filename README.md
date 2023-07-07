@@ -5,7 +5,7 @@
 🎮 Let's create something amazing together!
 
 ## My Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,nextjs,nodejs,redis,unity,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,nextjs,nodejs,redux,redis,unity,figma&theme=light)](https://skills.thijs.gg)
 
 ## GitHub Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hajarakotozafy&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
