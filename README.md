@@ -7,6 +7,8 @@
 ## My Skills
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,nextjs,nodejs,redux,redis,unity,figma&theme=light)](https://skills.thijs.gg)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hajarakotozafy&layout=compact"/>
+
 ## GitHub Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hajarakotozafy&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
