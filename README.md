@@ -4,7 +4,7 @@
 
 🎮 Let's create something amazing together!
 
-## My Skills
+## Skills
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,nextjs,gatsbyjs,nodejs,redux,redis,unity,figma&theme=light)](https://skills.thijs.gg)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hajarakotozafy&layout=compact"/>
