@@ -12,7 +12,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=figma,xd,illustrator&theme=light)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=unity&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=unity,blender&theme=light)](https://skills.thijs.gg)
 
 
 
