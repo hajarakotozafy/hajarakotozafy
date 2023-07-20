@@ -8,13 +8,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hajarakotozafy&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,css,scss,react,nextjs,gatsbyjs,nodejs,redux,git&theme=light)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=figma,xd,illustrator&theme=light)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=unity,blender&theme=light)](https://skills.thijs.gg)
-
-
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,css,scss,react,nextjs,gatsbyjs,nodejs,redux,git,figma,xd,illustrator,unity,blender&theme=light)](https://skills.thijs.gg)
 
 <!--
 **hajarakotozafy/hajarakotozafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
