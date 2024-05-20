@@ -1,4 +1,5 @@
-## 👋 Hello! I'm Haja, a creative Web and Game Developer.
+![](https://komarev.com/ghpvc/?username=hajarakotozafy&color=8875E7&style=for-the-badge&label=Github+Profile+views&abbreviated=true)
+## 👋 Hello! I'm Haja, a creative Web and Game Developer. 
 💻 I love crafting innovative web applications using <strong>Javascript</strong> and exploring the world of <strong>Game Development.</strong>
 
 🎮 Let's create something amazing together!
